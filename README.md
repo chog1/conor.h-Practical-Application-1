@@ -27,6 +27,7 @@ Based on CRISP-DM Framework below is a brief report of data review:
    
 9. **Evaluation**
    - the overal acceptance rate is 56.84%
+   - The largest portion of coupons distributed were for Coffee House
   
    ** Investigating the Bar Coupons**:
    - The acceptance rate of bar coupons is 41.00%
