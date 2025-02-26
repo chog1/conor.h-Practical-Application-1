@@ -26,6 +26,8 @@ Based on CRISP-DM Framework below is a brief report of data review:
 
    
 9. **Evaluation**
+   - the overal acceptance rate is 56.84%
+  
    ** Investigating the Bar Coupons**:
    - The acceptance rate of bar coupons is 41.00%
    - The acceptance rate for those who went to a bar 3 or fewer times a month is 52.74%
