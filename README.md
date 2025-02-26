@@ -1,6 +1,6 @@
 # conor.h-Practical-Application-1
 
-All workings can be found in file _prompt.ipynb_
+All workings can be found in file _prompt.ipynb_ and related chart images stored in folder data
 
 Based on CRISP-DM Framework below is a brief report of data review:
 
@@ -46,5 +46,6 @@ Based on CRISP-DM Framework below is a brief report of data review:
    - The highest propertion of acceptance is 6pm. see chart 'Histogram of time column and accepted' in data folder
 
 
-
+**Next Steps:**
+While the data is clean and extensive in terms of coupon distribution. Further data gathering on actually coupons that are redeemed and actual spend would be invaluable data providing a 360 view of coupons accepted and actually used.
 
