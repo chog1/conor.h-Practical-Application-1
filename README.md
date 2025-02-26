@@ -17,6 +17,7 @@ Based on CRISP-DM Framework below is a brief report of data review:
 5. **Data Preparation**
   - Brief review of columns and blank data info() & isnull()
   - drop car column with mostly blank data
+  - copy of bar_coupons dataframe, removed text from age column and updated to float in order to simplify query on age (greater than, less than)
   - visual display of columns grouped by responses to identify categories for filtering purposes
   - visualize distribution through charts
     
